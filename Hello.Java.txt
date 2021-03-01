@@ -1,5 +1,9 @@
 public class Hello{
+
 private Map<String,Object> cache = new HashMap<String,Object>();
+
+
+private static final string Rest_url = "https://www.equifax.com/getScores";
 
 
 //For develop Branch
