@@ -1,10 +1,17 @@
 public class Hello{
+private Map<String,Object> cache = new HashMap<String,Object>();
 
 
 //For develop Branch
 
   //From Develop Branch
 
+//feature-HIS-3001 Changes
+public void doProcess() {
+
+//some logic for feature-HIS-3001
+
+ }
 
 
 }
