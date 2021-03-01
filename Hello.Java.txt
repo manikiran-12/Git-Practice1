@@ -1,10 +1,21 @@
 public class Hello{
+
+private Map<String,Object> cache = new HashMap<String,Object>();
+
+
 private static final string Rest_url = "https://www.equifax.com/getScores";
+
 
 //For develop Branch
 
   //From Develop Branch
 
+//feature-HIS-3001 Changes
+public void doProcess() {
+
+//some logic for feature-HIS-3001
+
+ }
 
 
 }
